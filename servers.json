@@ -41,5 +41,21 @@
       "getGJScores20": "getGJScores",
       "getGJComments21": "getGJComments"
     }
+  },
+  {
+    "name": "CP7",
+    "link": "https://discord.gg/XZWHHDu5yG",
+    "author": "nk87",
+    "authorLink": "https://www.youtube.com/@nk87",
+    "id": "cp7",
+    "endpoint": "http://absolllute.com/gdps/gdapi/",
+    "onePointNine": false,
+    "weeklyLeaderboard": false,
+    "demonList": "https://pointercrate.xyze.dev/",
+    "overrides": {
+      "getGJMapPacks21": "getGJMapPacks",
+      "getGJScores20": "getGJScores",
+      "getGJComments21": "getGJComments"
+    }
   }
 ]
